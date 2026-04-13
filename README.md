@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=nadaafawzyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadaafawzyy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nadaafawzyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
